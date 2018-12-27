@@ -43,7 +43,38 @@ Example:
 ```
 PPK_Blade.exe rockyou.txt C:\Users\User\Desktop\myKey.ppk
 ```
+Example Console Output:
 
+```
+PPK_Blade  Version 1.1  Copyright (c) EdwinTechnologies
+http://edwintech.ddns.net/
+
+Loading magazine...
+
+[*] PPK_Blade.exe
+|
+|
+|__ Magazine: rockyou.txt
+|   |
+|   |__ Passwords loaded: 14344357
+|
+|
+|__ Target: myKey.ppk
+|   |
+|   |__ PuTTY-User-Key-File-2: ssh-rsa
+|   |__ Encryption: aes256-cbc
+|   |__ Comment: Very Secure Key
+|
+|
+|__ Found 4 CPU Cores
+|   |
+|   |__ Fired up 4 Threads. Good Luck!
+|   |__ 115532 Keys/sec | 92,0411420323686 % tested|
+|
+|__ [!] PASSWORD FOUND: '_155linux'
+|__ [!] Be careful and don't get caught!
+|__ [!] Time Elapsed: 00:02:11.78
+```
 
 ## Authors
 
