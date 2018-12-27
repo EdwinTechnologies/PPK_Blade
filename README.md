@@ -2,6 +2,11 @@
 
 Brute Force PuTTY Private Key Files
 --------------------
+
+
+DISCLAIMER: I am NOT responsible or liable for any damages or loss caused or sustained by this program!
+
+
 This program uses multithreading to crack PuTTY Private Key Files
 
 ## Getting Started
