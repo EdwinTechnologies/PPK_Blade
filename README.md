@@ -1,13 +1,15 @@
 # PPK_Blade
 
 Brute Force PuTTY Private Key Files
+--------------------
+This program uses multithreading to crack PuTTY Private Key Files
 
 ## Getting Started
 
 
 ### Prerequisites
 
-To run this program you need either the .NET Framework 4.5 (or higher)
+To run this program you need the .NET Framework 4.5 (or higher)
 
 ### Installing
 
@@ -20,7 +22,7 @@ and install it (If not already done)
 
 Then download PPK_Blade:
 
-Windows 64-Bit: https://github.com/EdwinTechnologies/HashBreak/blob/master/Downloads/HashBreak_.NET_x64.exe
+Windows 64-Bit: https://github.com/EdwinTechnologies/PPK_Blade/raw/master/PPK_Blade_WIN.zip
 
 ```
 ### How To Use
