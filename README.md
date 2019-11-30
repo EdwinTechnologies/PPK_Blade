@@ -80,9 +80,7 @@ Loading magazine...
 
 * **Edwin Technologies**
 
-  http://edwintech.ddns.net/
-
-  https://github.com/EdwinTechnologies
+  https://edwintech.ddns.net/
 
   https://twitter.com/EdwinTechDEV
 
